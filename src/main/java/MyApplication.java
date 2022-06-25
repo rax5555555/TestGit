@@ -5,5 +5,6 @@ public class MyApplication {
             System.out.println(i);
         }
         System.out.println("End program");
+        System.out.println("End program");
     }
 }
